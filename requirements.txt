@@ -1,0 +1,10 @@
+chainlit
+llama-index-vector-stores-azureaisearch
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+llama-index-multi_modal_llms.azure_openai
+llama-index-core
+llama_parse
+langchain
+azure-storage-blob
+python-dotenv
