@@ -9,4 +9,10 @@ langchain
 azure-storage-blob
 python-dotenv
 markitdown
-avconv
+pinecone[grpc]
+protoc-gen-openapiv2
+PyPDF2 
+pdf2image 
+pytesseract 
+pandas 
+tqdm
