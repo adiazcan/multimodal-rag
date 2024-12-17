@@ -8,3 +8,5 @@ llama_parse
 langchain
 azure-storage-blob
 python-dotenv
+markitdown
+avconv
